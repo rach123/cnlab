@@ -1,0 +1,12 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        1      1 node1202-54.local:33829 github.com:https        LAST_ACK   
+tcp        1      1 node1202-54.local:33832 github.com:https        LAST_ACK   
+tcp        1      1 node1202-54.local:33816 github.com:https        LAST_ACK   
+tcp        0      0 node1202-54.local:52577 sa-in-f138.1e100.:https ESTABLISHED
+tcp        0     32 node1202-54.local:49433 23.235.39.133:https     LAST_ACK   
+tcp        0      0 node1202-54.local:35794 ec2-54-164-227-23:https TIME_WAIT  
+tcp        0      0 node1202-54.local:35602 live.github.com:https   ESTABLISHED
+tcp        0      1 node1202-54.local:49472 23.235.39.133:https     LAST_ACK   
+tcp        0     72 node1202-54.local:33239 alkes.canonical.c:https ESTABLISHED
+tcp        1      0 node1202-54.local:55414 mulberry.canonical:http CLOSE_WAIT 
